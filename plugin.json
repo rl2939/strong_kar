@@ -16,7 +16,7 @@
       "slug": "cyc-strong_kar",
       "name": "Strong Kar",
       "description": "Implementation of the Karplus-Strong algorithm",
-      "tags": ["VCO"]
+      "tags": ["Oscillator"]
     }
   ]
 }
